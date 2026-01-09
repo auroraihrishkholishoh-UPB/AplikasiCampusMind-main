@@ -1,0 +1,12 @@
+<resources>
+    <!-- Palette CampusMind -->
+    <color name="cm_slate_blue">#5865F2</color>
+    <color name="cm_soft_teal">#48CFCB</color>
+    <color name="cm_bg_light">#F5F5F5</color>
+    <color name="cm_background">#F5F5F5</color>
+    <color name="cm_soft_yellow">#F7D154</color>
+    <color name="cm_text_primary">#1F2933</color>
+    <color name="cm_text_secondary">#6B7280</color>
+    <color name="cm_card_bg">#FFFFFFFF</color>
+    <color name="cm_border">#E5E7EB</color>
+</resources>

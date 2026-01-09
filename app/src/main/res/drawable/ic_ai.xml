@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Icon kepala AI simple -->
+    <path
+        android:fillColor="@color/cm_soft_teal"
+        android:pathData="M12,2a7,7 0 1,1 0,14a7,7 0 0,1 0,-14z" />
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M9,10a1,1 0 1,1 0,-2a1,1 0 0,1 0,2zM15,10a1,1 0 1,1 0,-2a1,1 0 0,1 0,2zM9,13h6a1,1 0 0,1 0,2H9a1,1 0 0,1 0,-2z" />
+</vector>

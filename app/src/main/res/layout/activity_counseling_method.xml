@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_counseling_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pilih Metode Konseling"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btn_chat_human"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Live Chat dengan Konselor"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/btn_chat_ai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Live Chat dengan AI Konselor" />
+
+    <!-- Voice call udah ga dipake, jadi ga usah tombol voice -->
+
+</LinearLayout>

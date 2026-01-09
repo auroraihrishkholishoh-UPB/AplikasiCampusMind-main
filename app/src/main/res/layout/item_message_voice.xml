@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp"
+    android:gravity="start">
+
+    <ImageButton
+        android:id="@+id/btn_play_voice"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@android:drawable/ic_media_play"
+        android:background="@android:color/transparent"
+        android:contentDescription="Play voice note" />
+
+    <TextView
+        android:id="@+id/tv_voice_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voice note"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="8dp" />
+
+</LinearLayout>
